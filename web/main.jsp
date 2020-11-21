@@ -13,7 +13,7 @@
   <body>
 
     <%
-      //模拟数据
+      //模拟数据123
       //用户信息
       session.setAttribute("userId",2);
       session.setAttribute("userName","张三");
